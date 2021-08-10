@@ -8,6 +8,10 @@ These documents are provided in good faith to aid in the development of Australi
 
 If quoted from please attribute the source of these documents.
 
+## Focus
+
+These documents here help with both assessment and real-world operation. The focus here is to inform and to hopefully create an Amateur that can operate and integrate with our community form the time that their licence first appears on the ACMA database.
+
 ## Sample Test Questions
 
 Good sample questions can be found at:
