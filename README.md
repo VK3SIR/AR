@@ -1,10 +1,10 @@
-# AR
-VK Amater Radio Training Materials
+# AR - VK Amater Radio Training Resources
 
 ## Open Source
-Note that these documents have various sources and all academic attributions have attempted to be provided. If there are any omission in attribution please advise and documents will be adjusted accordingly.
 
-These documents are provided in good faith to aid in the development of Australian Amateurs. Please treat this as such.
+These documents all are based on various sources and all academic attribution efforts have attempted to be provided.  
+
+These documents are provided in good faith to aid in the development of Australian Amateurs. Please treat this as such. These must not be used against the authors etc. as context of how these resources are used must be incorporated into any discussion of these materials.
 
 If quoted from please attribute the source of these documents.
 
