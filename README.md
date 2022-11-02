@@ -12,11 +12,11 @@ If quoted from please attribute the source of these documents.
 
 These documents here help with both assessment and real-world operation. The focus here is to inform and to hopefully create an Amateur that can operate and integrate with our community from the time that their licence first appears on the ACMA database.
 
-The focus is also to ensure that the AMateur also knows the rules and conventions... and operates within these rues and conventions.
+The focus is also to ensure that the Radio Amateur also knows the Australian rules and conventions... and operates within these rules and conventions.
 
 ## Sample Test Questions
 
-Good sample questions can be found at:
+There are many sample question sets around on the Internet. Note that none of these questions come from  the Test pool nor are they sanctioned by the managers of the assessment process - The University of Tasmania (AMC). SOme possibly useful guide questions can be found at:
 
 ### Foundation
 
