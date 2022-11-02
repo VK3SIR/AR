@@ -16,7 +16,7 @@ The focus is also to ensure that the Radio Amateur also knows the Australian rul
 
 ## Sample Test Questions
 
-There are many sample question sets around on the Internet. Note that none of these questions come from  the Test pool nor are they sanctioned by the managers of the assessment process - The University of Tasmania (AMC). SOme possibly useful guide questions can be found at:
+There are many sample question sets around on the Internet. Note that none of these questions come from  the Test pool nor are they sanctioned by the managers of the assessment process - The University of Tasmania (AMC). Useful guide questions can be found at:
 
 ### Foundation
 
