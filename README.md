@@ -14,7 +14,7 @@ These documents here help with both assessment and real-world operation. The foc
 
 The focus is also to ensure that the Radio Amateur also knows the Australian rules and conventions... and operates within these rules and conventions.
 
-## YouTube REsources
+## YouTube Resources
 
 - Reading a Cross-hair SWR Meter: https://www.youtube.com/watch?v=3W5ne1DMXYY 
 
