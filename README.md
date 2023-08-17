@@ -14,6 +14,10 @@ These documents here help with both assessment and real-world operation. The foc
 
 The focus is also to ensure that the Radio Amateur also knows the Australian rules and conventions... and operates within these rules and conventions.
 
+## YouTube REsources
+
+- Reading a Cross-hair SWR Meter: https://www.youtube.com/watch?v=3W5ne1DMXYY 
+
 ## Sample Test Questions
 
 There are many sample question sets around on the Internet. Note that none of these questions come from  the Test pool nor are they sanctioned by the managers of the assessment process - The University of Tasmania (AMC). Useful guide questions can be found at:
