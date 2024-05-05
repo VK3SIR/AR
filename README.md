@@ -16,7 +16,7 @@ There are many sample guides to be found on the Internet. Perhaps the most usefu
 
 The AMC's Practical Assessment documentation used to be available on the AMC's Website and still may be found via Google searches. This document useful but is now out of date and current practise is different.
 
-The best resource can be foudn by examining the Foundation Syllabus - found at https://www.acma.gov.au/sites/default/files/2024-02/ACMA%20recognition%20certificate%20%28Foundation%29%20Syllabus%20and%20examination%20information.pdf .
+The best resource is the Foundation Syllabus - found at https://www.acma.gov.au/sites/default/files/2024-02/ACMA%20recognition%20certificate%20%28Foundation%29%20Syllabus%20and%20examination%20information.pdf .
 
 ## Sample Test Questions
 
