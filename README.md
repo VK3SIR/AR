@@ -18,6 +18,10 @@ The focus is also to ensure that the Radio Amateur also knows the Australian rul
 
 - Reading a Cross-hair SWR Meter: https://www.youtube.com/watch?v=3W5ne1DMXYY 
 
+## Practical Assessment Guide 
+
+There are many sample guides to be found on the Internet. Perhaps the most useful guide (though perhaps a little excessive) can be found at: https://www.julesworkshop.net/Zero%20to%20Practical.html .
+
 ## Sample Test Questions
 
 There are many sample question sets around on the Internet. Note that none of these questions come from  the Test pool nor are they sanctioned by the managers of the assessment process - The Australian Communications and Media Authority - ACMA. Useful guide questions can be found at:
