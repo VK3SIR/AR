@@ -29,7 +29,7 @@ There are many sample question sets around on the Internet. Note that none of th
 
 ### Regulations
 
-- Syllabus: (See all levels of Licence - a basic guide is at 
+- Syllabus: (See all levels of Licence) - a basic guide can be found at https://vkregs.info/
 - https://www.amateurradio.com.au/licence/regulations
 
 ### Standard
